@@ -19,10 +19,11 @@ ds-ml-cheatsheets
 2. `c:`直下に`jupyter`というからフォルダを作成してください。
 3. 下記ファイルを`jupyterに格納`
 >activate.bat  
->add_library.bat  
+>requirements.txt  
 >jupyter_install.bat  
 >jupyter_lab.bat  
->jupyter_notebook.bat  
+>jupyter_notebook.bat
+>.gitignore
 4. `jupyter_install.bat`の起動  
 ダブルクリックで実行してください。  
 「何かキーを押してください」がでるまで放置してください。
