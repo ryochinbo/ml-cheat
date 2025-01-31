@@ -27,7 +27,7 @@ ds-ml-cheatsheets
 >requirements.txt  
 >jupyter_install.bat  
 >jupyter_lab.bat  
->jupyter_notebook.bat
+>jupyter_notebook.bat  
 >.gitignore
 4. `jupyter_install.bat`の起動  
 ダブルクリックで実行してください。  
