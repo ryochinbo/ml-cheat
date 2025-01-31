@@ -6,6 +6,11 @@
 python 3.10.6  
 ライブラリ[バージョン](requirements.txt)　※2025/1/30現在
 
+
+## 内容
+[実施記録](memo/logs.md)
+- [01/29_#1](notebook/0129.ipynb)
+
 ## フォルダ構成
 ds-ml-cheatsheets  
 |-input(使用データを格納)  
@@ -29,7 +34,6 @@ ds-ml-cheatsheets
 「何かキーを押してください」がでるまで放置してください。
 （30分ほどかかります。）
 
-## 勉強会実施記録
-[実施記録](memo/logs.md)
+
 
 
