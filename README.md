@@ -10,6 +10,7 @@ python 3.10.6
 ## 内容
 [実施記録](memo/logs.md)
 - [01/29_#1](notebook/0129.ipynb)
+- [02/06_#2](notebook/0206.ipynb)
 
 ## フォルダ構成
 ds-ml-cheatsheets  
