@@ -15,7 +15,7 @@ python 3.10.6
 
 **練習問題**
 - [try1](input/try1_inoue.zip)
-  - [try1_回答](notebook/trt1_answer.ipynb)
+  - [try1_解答例](notebook/trt1_answer.ipynb)
 
 
 ## フォルダ構成
