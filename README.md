@@ -1,3 +1,5 @@
+**#4以降は仕事として実施するため、個人レポジトリでの公開を行わない**
+
 # ds-ml-cheatsheets
 データ加工及びデータ分析などの処理方法について勉強会を開催  
 その備忘録をこちらに残す
@@ -11,7 +13,7 @@ python 3.10.6
 [実施記録](memo/logs.md)
 - [#1](notebook/0129.ipynb)
 - [#2](notebook/0206.ipynb)
-- [#3](notebook/0212.ipynb)  
+- [#3](notebook/0212.ipynb)
 
 **練習問題**
 - [try1](input/try1_inoue.zip)
